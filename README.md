@@ -40,6 +40,9 @@
 nadhifahsyahrinaa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+   <a href="https://www.instagram.com/naadzf/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
