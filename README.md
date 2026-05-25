@@ -1,6 +1,6 @@
 <!-- 🌸 Pixel Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner-pixel.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/nasnadfh/nasnadfh/main/banner-pixel.png" width="100%" />
 </p>
 
 <br/>
