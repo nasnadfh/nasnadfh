@@ -50,7 +50,11 @@ nadhifahsyahrinaa">
 <!-- 🧰 Tools -->
 ### 🧸 languages & tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,flutter,dart,html,css,js,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,flutter,dart,html,css,js,git,vscode,androidstudio,aws,docker,firebase,framer,java,laravel,mongodb,mysql,nodejs,php,python,postman,react,reactnative,spring" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=coreldraw,illustrator,photoshop" />
 </p>
 
 ---
