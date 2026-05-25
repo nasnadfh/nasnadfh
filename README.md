@@ -65,9 +65,8 @@ nadhifahsyahrinaa">
 ⚡ fun fact:
 i’m quiet, not clueless 💅
 
----
-
+```
 ### 🌸 my contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasnadfh&bg_color=0d1117&color=F8C8DC&line=F8C8DC&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasnadfh&bg_color=0d1117&color=ffb6c1&line=ffc0cb&point=ffffff&area=true&hide_border=true" />
 </p>
