@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: nasnadfh
-          outputs: dist/snake.svg
+          outputs: dist/snake.svg?color_snake=ff69b4&color_dots=#ffc0cb,#ffb6c1,#ff69b4,#ff1493,#db7093
 
       - name: Deploy snake
         uses: peaceiris/actions-gh-pages@v4
