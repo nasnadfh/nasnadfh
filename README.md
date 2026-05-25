@@ -68,5 +68,5 @@ i’m quiet, not clueless 💅
 ```
 ### 🌸 my contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nasnadfh/nasnadfh/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nasnadfh/nasnadfh/output/snake.svg" />
 </p>
