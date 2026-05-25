@@ -1,7 +1,9 @@
-<!-- 🌸 Banner -->
+<!-- 🌸 Pixel Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Nadhifah%20Syahrina%20Mumtaz&fontSize=30&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner-pixel.png" width="100%" />
 </p>
+
+<br/>
 
 ---
 
@@ -10,7 +12,7 @@
 <p align="center">
   UI/UX enthusiast ✦ aspiring mobile developer ✦ DKV background 🎨  
   <br/>
-  <i>quiet — but I notice everything 👀</i>
+  <i>What are you doing in my profile weirdo</i>
 </p>
 
 ---
@@ -18,8 +20,8 @@
 <!-- 💫 About -->
 ### 🌸 about me
 - 🎓 Undergraduate at State Polytechnic of Malang  
-- 🎨 DKV background (visual design, color, layout)  
-- 📱 Currently working on my final project  
+- 🎨 DKV & IT background 
+- 📱 Currently working on UI/UX case studies & Mobile app projects
 - 🌱 Learning Flutter & mobile development  
 - ✨ love clean, aesthetic, and meaningful design  
 
@@ -31,10 +33,11 @@
   <a href="mailto:nadhifahsyahrinaa@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/nasnadfh">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/
+nadhifahsyahrinaa">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
