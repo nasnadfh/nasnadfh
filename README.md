@@ -68,5 +68,5 @@ i’m quiet, not clueless 💅
 ```
 ### 🌸 my contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasnadfh&bg_color=0d1117&color=ffb6c1&line=ffc0cb&point=ffffff&area=true&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/nasnadfh/nasnadfh/output/github-contribution-grid-snake-dark.svg" />
 </p>
