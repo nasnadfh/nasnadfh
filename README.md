@@ -8,7 +8,7 @@
 ---
 
 <!-- 🐰 Intro -->
-<h2 align="center">hi 👋 i'm nadhifah 🌷</h2>
+<h2 align="center">hi, i'm nadhifah 🌷</h2>
 <p align="center">
   UI/UX enthusiast ✦ aspiring mobile developer ✦ DKV background 🎨  
   <br/>
