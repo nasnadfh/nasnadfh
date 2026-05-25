@@ -10,7 +10,7 @@
 <!-- 🐰 Intro -->
 <h2 align="center">hi, i'm nadhifah 🌷</h2>
 <p align="center">
-  UI/UX enthusiast ✦ aspiring mobile developer ✦ DKV background 🎨  
+  UI/UX enthusiast ✦ aspiring mobile developer ✦ DKV background 
   <br/>
   <i>What are you doing in my profile weirdo</i>
 </p>
