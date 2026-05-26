@@ -65,6 +65,9 @@
 i’m quiet, not clueless 💅
 
 ```
+
+<!-- 🌷 Fun -->
+### 🎮 play games with me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph.svg">
