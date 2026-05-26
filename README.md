@@ -66,7 +66,8 @@ nadhifahsyahrinaa">
 i’m quiet, not clueless 💅
 
 ```
-### 🌸 my contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasnadfh&bg_color=0d1117&color=ffc0cb&line=ff69b4&point=ffffff&area=true&hide_border=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph.svg">
+</picture>
