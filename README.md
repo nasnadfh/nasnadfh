@@ -79,5 +79,7 @@ i’m quiet, not clueless 💅
 ```
 <!-- 🌷 Fun -->
 ### 💖 most used languages 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nasnadfh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nasnadfh&theme=transparent&title_color=ff69b4&text_color=ffc0cb&icon_color=ff1493&hide_border=true&layout=compact" />
+</p>
 
