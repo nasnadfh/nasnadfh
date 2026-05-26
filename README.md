@@ -2,5 +2,3 @@
 text
 ⚡ fun fact:
 i’m quiet, not clueless 💅
-
-modif yang bagian connect with me saja, tambahkan instagram ya https://www.instagram.com/naadzf/
