@@ -73,3 +73,11 @@ i’m quiet, not clueless 💅
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nasnadfh/nasnadfh/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+```
+
+```
+<!-- 🌷 Fun -->
+### 💖 most used languages 
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nasnadfh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+
